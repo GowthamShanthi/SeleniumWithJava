@@ -7,7 +7,7 @@ void eat () {
 	
 System.out.println("The person is eating");
 	
-}
+} 
 
 public static void sleep() {
 		
