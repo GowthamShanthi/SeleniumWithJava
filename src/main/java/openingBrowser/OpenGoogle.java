@@ -13,6 +13,7 @@ public class OpenGoogle {
 		
 		System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
+		driver.get("https://letcode.in/edit");
 		
 		/*	System.setProperty("webdriver.gecko.driver","./drivers/geckodriver.exe");
 		
