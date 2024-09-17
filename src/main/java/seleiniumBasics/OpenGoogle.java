@@ -1,4 +1,4 @@
-package openingBrowser;
+package seleiniumBasics;
 
 import javax.print.attribute.standard.Chromaticity;
 
