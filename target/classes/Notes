@@ -1,0 +1,25 @@
+Namachivaya
+
+
+Where we user overloading concept in selenium
+
+1.In frames
+
+
+		driver.switchTo().frame(int index);
+		driver.switchTo().frame(Webelement)
+		
+		
+2.In Actions class 
+Actions builder = new Actions(driver
+
+Actions builder = new Actions(driver , duration) s
+
+Alert exception
+================
+NoAlertPresentException
+
+FrameException
+=============
+NoSuchFrameException 
+
