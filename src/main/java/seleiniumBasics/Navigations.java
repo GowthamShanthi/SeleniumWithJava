@@ -14,7 +14,7 @@ public class Navigations {
 		ChromeDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get( "https://letcode.in/buttons");
-		
+	/*	
 		//Click home button
 		
 		driver.findElement(By.id("home")).click();
@@ -44,7 +44,7 @@ driver.quit();
 
 
 
-
+*/
 		
 		
 		
