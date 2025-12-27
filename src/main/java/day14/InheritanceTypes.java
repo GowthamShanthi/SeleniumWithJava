@@ -23,7 +23,7 @@ package day14;
  class C extends B{
 	
 	 {
-	 C cobj = new C();
+	 C cobj = new C(); 
 	
 	  
 	 }
